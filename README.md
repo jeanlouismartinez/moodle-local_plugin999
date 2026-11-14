@@ -1,4 +1,4 @@
-# 999 — noms cours élargis (local_plugin999)
+# 999 — noms courts élargis (local_plugin999)
 
 Plugin local pour Moodle 5.3. Il lève la limite de 100 caractères qui s'applique au nom court des compétences, des référentiels de compétences et des objectifs.
 
